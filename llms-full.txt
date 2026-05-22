@@ -1,0 +1,51 @@
+# Geotecnia1 — Santiago
+
+> Geotechnical engineering services in Santiago, Chile.
+
+## Services
+- [Aislacion Sismica](https://santiago.geotecnia.sbs/aislacion-sismica/)
+- [Anclajes](https://santiago.geotecnia.sbs/anclajes/)
+- [Calicatas](https://santiago.geotecnia.sbs/calicatas/)
+- [Cbr Vial](https://santiago.geotecnia.sbs/cbr-vial/)
+- [Cimentaciones](https://santiago.geotecnia.sbs/cimentaciones/)
+- [Columnas Grava](https://santiago.geotecnia.sbs/columnas-grava/)
+- [Densidad Cono Arena](https://santiago.geotecnia.sbs/densidad-cono-arena/)
+- [Ensayo Cpt](https://santiago.geotecnia.sbs/ensayo-cpt/)
+- [Ensayos Proctor](https://santiago.geotecnia.sbs/ensayos-proctor/)
+- [Estabilidad Taludes](https://santiago.geotecnia.sbs/estabilidad-taludes/)
+- [Excavaciones Profundas](https://santiago.geotecnia.sbs/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://santiago.geotecnia.sbs/excavaciones-subterraneo/)
+- [Exploracion](https://santiago.geotecnia.sbs/exploracion/)
+- [Geotecnia Vial](https://santiago.geotecnia.sbs/geotecnia-vial/)
+- [Granulometria](https://santiago.geotecnia.sbs/granulometria/)
+- [Inyecciones](https://santiago.geotecnia.sbs/inyecciones/)
+- [Laboratorio In Situ](https://santiago.geotecnia.sbs/laboratorio-in-situ/)
+- [Laboratorio Lab](https://santiago.geotecnia.sbs/laboratorio-lab/)
+- [Licuefaccion](https://santiago.geotecnia.sbs/licuefaccion/)
+- [Limites Atterberg](https://santiago.geotecnia.sbs/limites-atterberg/)
+- [Losas Fundacion](https://santiago.geotecnia.sbs/losas-fundacion/)
+- [Masw](https://santiago.geotecnia.sbs/masw/)
+- [Mejoramiento](https://santiago.geotecnia.sbs/mejoramiento/)
+- [Microzonificacion Sismica](https://santiago.geotecnia.sbs/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://santiago.geotecnia.sbs/monitoreo-excavaciones/)
+- [Muros Contencion](https://santiago.geotecnia.sbs/muros-contencion/)
+- [Pavimento Flexible](https://santiago.geotecnia.sbs/pavimento-flexible/)
+- [Pavimento Rigido](https://santiago.geotecnia.sbs/pavimento-rigido/)
+- [Permeabilidad In Situ](https://santiago.geotecnia.sbs/permeabilidad-in-situ/)
+- [Pilotes](https://santiago.geotecnia.sbs/pilotes/)
+- [Refraccion Sismica](https://santiago.geotecnia.sbs/refraccion-sismica/)
+- [Resistividad](https://santiago.geotecnia.sbs/resistividad/)
+- [Sismica](https://santiago.geotecnia.sbs/sismica/)
+- [Sondajes Spt](https://santiago.geotecnia.sbs/sondajes-spt/)
+- [Taludes](https://santiago.geotecnia.sbs/taludes/)
+- [Triaxial](https://santiago.geotecnia.sbs/triaxial/)
+- [Tuneles Suelo Blando](https://santiago.geotecnia.sbs/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://santiago.geotecnia.sbs/vibrocompactacion/)
+- [Zapatas](https://santiago.geotecnia.sbs/zapatas/)
+
+## Contact
+- Website: https://santiago.geotecnia.sbs/
+
+## About
+This site provides geotechnical engineering services in Santiago, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
